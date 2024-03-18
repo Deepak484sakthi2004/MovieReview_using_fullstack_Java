@@ -84,6 +84,4 @@ Contributions are welcome! If you have any suggestions, improvements, or feature
 ## License
 
 [MIT License](LICENSE)
-```
 
-Replace `<username>`, `<password>`, `<host>`, `<port>`, and `<database>` in the MongoDB connection string with your actual credentials and database information. Also, replace `your-application-name` with the actual name of your SpringBoot application.

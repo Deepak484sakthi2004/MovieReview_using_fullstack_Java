@@ -1,0 +1,29 @@
+1) create a react app
+	npx vreate-react-app $(application-name)
+
+2) delete the setuptest.js app.test.js reportVital.js and open the index.js file and remove the code related to the reportVitals.js
+
+3) Installing axios in the terminal , Axios helps to connect the HTTP request from the react client to the relevent API hosted on a distant server(the java service and controller redirections!!)
+			npm install axios			
+			
+4) Install bootstrap for styling and layout	
+			npm install bootstrap
+			npm i react-bootstrap // integrate to the project
+
+5)  Installing some fontStyling, icons and favicons 
+			npm i @fortawesome/react-fontawesome
+			npm i @fortawesome/free-solid-svg-icons
+
+6) Installing the react player component in order to play videos from url/ external source
+			npm i react-player
+		
+7) Installing router component to route to the revelent server side page
+			npm i react-router-dom
+			
+8) Installing carousel in react using material UI -> to add sliders to display the images(like home page of disney netflix!!)
+	there are three material UI
+			npm install @mui/material @emotion/react @emotion/styled
+	use it in the project 
+			npm install react-material-ui-carousel
+
+9) 
